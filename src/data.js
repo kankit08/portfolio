@@ -12,7 +12,7 @@ export const products = [
   {
     id: 3,
     img: "https://images.pexels.com/photos/7915432/pexels-photo-7915432.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    link: "http://lama.dev",
+    link: "http://kumar.dev",
   },
   {
     id: 4,
