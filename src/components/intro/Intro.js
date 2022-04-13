@@ -81,7 +81,7 @@ const Intro = () => {
         <div className='i-bg'>
              
         </div>
-            <img src={require('../../image/me.jpg')} alt='' className='i-img' />
+            <img src={require('../../image/me.png')} alt='' className='i-img' />
         </div>
     </div>
   )
