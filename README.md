@@ -1,7 +1,7 @@
 ### To run the app on localhost:
 npm start
 
-### To build the app for production reday
+### To build the app for production ready
 npm run build
 
 ### This is a portfolio app
